@@ -1,13 +1,13 @@
-/* * {
+* {
     box-sizing: border-box;
-  } */
+  }
 
-/* html,
-  body {
-    margin: 0;
-    background-color: transparent;
-    /* color: whitesmoke;
-  } */
+html,
+body {
+  margin: 0;
+  background-color: transparent;
+  color: whitesmoke;
+  }
 
 #loader {
   position: absolute;
